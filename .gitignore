@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# Generated Blender scripts (user output)
+*_animation.py
+test_*.py
+demo_*.py
+final_*.py
+optimized_*.py
+full_*.py
+
+# Generated JSON files (user output)
+mocap_data.json
+json_importer.py
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Output directories
+output/
+exports/
+generated/
+
+# Keep example files but not test outputs
+!example_*.py
+!sample_*.py
