@@ -1,0 +1,6 @@
+# Add __pycache__ and test files to gitignore
+__pycache__/
+*.pyc
+*.pyo
+test_*.py
+*.zip
