@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Blender
+*.blend1
+*.blend2
+*.blend@
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+/tmp/
+test_output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local test files
+test_rig.blend
+test_output.csv
