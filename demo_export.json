@@ -1,0 +1,201 @@
+{
+  "frame": 10,
+  "timecode": "00:00:00:11.011",
+  "bones": {
+    "c_eyelid_upper.L": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "eyeBlinkLeft": {
+          "value": 0.17235579,
+          "transform_type": "LOC_Y",
+          "source": "face_cap"
+        },
+        "eyeWideLeft": {
+          "value": 0.00398556,
+          "transform_type": "LOC_Y",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_lookat_mch.L": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "eyeLookDownLeft": {
+          "value": 0.14193822,
+          "transform_type": "ROT_X",
+          "source": "face_cap"
+        },
+        "eyeLookInLeft": {
+          "value": 0.10852603,
+          "transform_type": "ROT_Z",
+          "source": "face_cap"
+        },
+        "eyeLookOutLeft": {
+          "value": 0.05505107,
+          "transform_type": "ROT_Z",
+          "source": "face_cap"
+        },
+        "eyeLookUpLeft": {
+          "value": 0.06770699,
+          "transform_type": "ROT_X",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_eyelid_lower.L": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "eyeSquintLeft": {
+          "value": 0.40062127,
+          "transform_type": "LOC_Y",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_eyelid_upper.R": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "eyeBlinkRight": {
+          "value": 0.09031007,
+          "transform_type": "LOC_Y",
+          "source": "face_cap"
+        },
+        "eyeWideRight": {
+          "value": 0.00509608,
+          "transform_type": "LOC_Y",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_lookat_mch.R": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "eyeLookDownRight": {
+          "value": 0.13350481,
+          "transform_type": "ROT_X",
+          "source": "face_cap"
+        },
+        "eyeLookInRight": {
+          "value": 0.01880613,
+          "transform_type": "ROT_Z",
+          "source": "face_cap"
+        },
+        "eyeLookOutRight": {
+          "value": 0.19779697,
+          "transform_type": "ROT_Z",
+          "source": "face_cap"
+        },
+        "eyeLookUpRight": {
+          "value": 0.07850154,
+          "transform_type": "ROT_X",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_eyelid_lower.R": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "eyeSquintRight": {
+          "value": 0.38963813,
+          "transform_type": "LOC_Y",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_jaw_target": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "jawForward": {
+          "value": 0.00013534,
+          "transform_type": "LOC_Z",
+          "source": "face_cap"
+        },
+        "jawRight": {
+          "value": 5.302e-05,
+          "transform_type": "LOC_X",
+          "source": "face_cap"
+        },
+        "jawLeft": {
+          "value": 0.00259753,
+          "transform_type": "LOC_X",
+          "source": "face_cap"
+        },
+        "jawOpen": {
+          "value": 0.01162286,
+          "transform_type": "LOC_Y",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_mouth_close": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "mouthClose": {
+          "value": 0.00088042,
+          "transform_type": "LOC_Z",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_mouth_funnel": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "mouthFunnel": {
+          "value": 0.00029914,
+          "transform_type": "LOC_Z",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_mouth_pucker": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "mouthPucker": {
+          "value": 0.00438018,
+          "transform_type": "LOC_Z",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_mouth_smile.L": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "mouthSmileLeft": {
+          "value": 0.00026452,
+          "transform_type": "ROT_Z",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_mouth_smile.R": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "mouthSmileRight": {
+          "value": 0.00014549,
+          "transform_type": "ROT_Z",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_mouth_frown.L": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "mouthFrownLeft": {
+          "value": 0.00146537,
+          "transform_type": "ROT_Z",
+          "source": "face_cap"
+        }
+      }
+    },
+    "c_mouth_frown.R": {
+      "object": "FaceitControlRig",
+      "transforms": {
+        "mouthFrownRight": {
+          "value": 0.00193886,
+          "transform_type": "ROT_Z",
+          "source": "face_cap"
+        }
+      }
+    }
+  }
+}
